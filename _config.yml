@@ -1,17 +1,5 @@
-title: Model Context Protocol
-description: Documentation and guides for using Anthropic's Model Context Protocol (MCP)
-logo: /images/logo.png
+title: Jon's Blog
+description: Blog mainly about ML and software for non-software devs. Maybe some non-technical stuff too.
 
 # Theme settings
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# Site settings
-show_downloads: false
-
-# Build settings
-markdown: kramdown
-kramdown:
-  syntax_highlighter_opts:
-    default_lang: python
+remote_theme: "jekyll/minima@1e8a445"
