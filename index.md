@@ -1,8 +1,5 @@
-# Welcome to My GitHub Pages Site
+# Jon's Blog
 
-This is my homepage built with Markdown.
+## Posts
 
-## About
-
-This site is super easy to update!
-
+[Model Context Protocol](_posts/2025-04-03-mcp.md)
