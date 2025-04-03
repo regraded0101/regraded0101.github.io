@@ -1,8 +1,1 @@
-@import "{{ site.theme }}";
 
-/* Remove underlines from headings */
-h1, h2, h3, h4, h5, h6 {
-  border-bottom: none !important;
-  padding-bottom: 0 !important;
-  margin-bottom: 0.5em !important;
-}
