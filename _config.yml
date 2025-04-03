@@ -9,7 +9,6 @@ plugins:
 
 # Site settings
 show_downloads: false
-google_analytics: # Add your GA ID if needed
 
 # Build settings
 markdown: kramdown
