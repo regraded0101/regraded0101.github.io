@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+title: Model Context Protocol
+description: Documentation and guides for using Anthropic's Model Context Protocol (MCP)
+logo: /images/logo.png
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+show_downloads: false
+google_analytics: # Add your GA ID if needed
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: python
